@@ -1,5 +1,5 @@
 ## Step by step
-
+#### Run after .env
 <pre>
 $ docker-compose up -d
 $ docker-compose exec app composer install --no-cache --no-dev
